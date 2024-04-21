@@ -3,7 +3,8 @@ en_de_model_normal_ft/
 en_de_model_qlora/
 results_1/
 results_2/
-
+results_3/
+en_de_model_lora/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
